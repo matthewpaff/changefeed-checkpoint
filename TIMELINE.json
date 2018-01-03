@@ -1,0 +1,237 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "modeledLearningYear": 2018,
+  "roadmapFit": "Independent concept exercise for modeled blueprint section Y04.",
+  "scenarioCommitCount": 34,
+  "scenarioCommits": [
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 0,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-01-03T20:42:14+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 1,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-01-04T21:24:31+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 2,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-01-08T15:27:02+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 3,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-01-13T14:19:07+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 4,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-01-25T15:48:42+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 5,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-02-03T09:38:26+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 6,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-02-12T10:28:31+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 7,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-02-14T20:06:40+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 8,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-02-26T21:28:54+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 9,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-03T10:45:08+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 10,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-05T19:40:09+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 11,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-07T10:35:21+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 12,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-12T20:03:05+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 13,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-14T17:52:41+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 14,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-15T11:17:17+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 15,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-16T10:48:43+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 16,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-18T09:23:11+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 17,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-23T19:35:48+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 18,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-28T18:40:42+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 19,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-03-29T18:00:44+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 20,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-04-02T12:41:48+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 21,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-04-10T09:52:37+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 22,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-04-17T20:52:45+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 23,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-04-21T18:27:41+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 24,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-04-24T09:26:34+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 25,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-04-29T09:07:55+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 26,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-05-07T13:43:16+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 27,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-05-10T19:40:03+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 28,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-05-17T16:20:51+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 29,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-05-22T09:25:33+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 30,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-05-27T18:51:00+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 31,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-06-20T19:20:24+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 32,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-06-21T16:58:16+00:00"
+    },
+    {
+      "repository": "changefeed-checkpoint",
+      "fixtureIndex": 33,
+      "year": 2018,
+      "scenarioAuthorDate": "2018-06-24T19:15:11+00:00"
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYear": 2018,
+    "actualCalendarRevisionAt": "2026-11-05T14:02:23.868107+00:00"
+  },
+  "calendarPolicy": {
+    "basis": "U.S. federal legal and observed holidays, 2018\u20132020; modeled timestamps use UTC calendar dates",
+    "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+    "excludedHolidayDates": [
+      "2018-01-01",
+      "2018-01-15",
+      "2018-02-19",
+      "2018-05-28",
+      "2018-07-04",
+      "2018-09-03",
+      "2018-10-08",
+      "2018-11-11",
+      "2018-11-12",
+      "2018-11-22",
+      "2018-12-25"
+    ],
+    "weekendDatesEmptyPerYear": 62,
+    "weekendDatesPerYear": 104
+  }
+}
