@@ -1,1 +1,2 @@
 {"description": "advance the checkpoint after successful processing", "expected": {"next_offset": 2, "outcomes": ["processed"]}, "id": "checkpoint-0000", "input": {"events": [{"offset": 1, "ok": true}], "start": 1}}
+{"description": "retain the checkpoint after a failed record", "expected": {"next_offset": 2, "outcomes": ["failed"]}, "id": "checkpoint-0001", "input": {"events": [{"offset": 2, "ok": false}], "start": 2}}
