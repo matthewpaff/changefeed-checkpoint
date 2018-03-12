@@ -10,3 +10,4 @@
 {"description": "require boolean processing outcomes", "expected_error": true, "id": "checkpoint-0009", "input": {"events": [{"offset": 0, "ok": 1}], "start": 0}}
 {"description": "advance the checkpoint after successful processing", "expected": {"next_offset": 12, "outcomes": ["processed"]}, "id": "checkpoint-0010", "input": {"events": [{"offset": 11, "ok": true}], "start": 11}}
 {"description": "retain the checkpoint after a failed record", "expected": {"next_offset": 12, "outcomes": ["failed"]}, "id": "checkpoint-0011", "input": {"events": [{"offset": 12, "ok": false}], "start": 12}}
+{"description": "distinguish duplicate records from offset gaps", "expected": {"next_offset": 14, "outcomes": ["duplicate", "gap"]}, "id": "checkpoint-0012", "input": {"events": [{"offset": 13, "ok": true}, {"offset": 15, "ok": true}], "start": 14}}
