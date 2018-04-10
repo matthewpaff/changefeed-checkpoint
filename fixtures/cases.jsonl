@@ -19,3 +19,4 @@
 {"description": "reject boolean offsets", "expected_error": true, "id": "checkpoint-0018", "input": {"events": [], "start": true}}
 {"description": "require boolean processing outcomes", "expected_error": true, "id": "checkpoint-0019", "input": {"events": [{"offset": 0, "ok": 1}], "start": 0}}
 {"description": "advance the checkpoint after successful processing", "expected": {"next_offset": 22, "outcomes": ["processed"]}, "id": "checkpoint-0020", "input": {"events": [{"offset": 21, "ok": true}], "start": 21}}
+{"description": "retain the checkpoint after a failed record", "expected": {"next_offset": 22, "outcomes": ["failed"]}, "id": "checkpoint-0021", "input": {"events": [{"offset": 22, "ok": false}], "start": 22}}
